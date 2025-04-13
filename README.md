@@ -1,1 +1,1 @@
-Web scraping (crawling & extraction) using selenium. 
+Web scraping (crawling & extraction) using selenium/playwright/requests. 
